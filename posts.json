@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "628cac4b83699ff5a1bc218a"
+  },
+  "username": "GoodGuyGreg",
+  "title": "Passes out at Party",
+  "body": "Raises your credit score"
+},{
+  "_id": {
+    "$oid": "628cace483699ff5a1bc218b"
+  },
+  "username": "GoodGuyGreg",
+  "title": "Steals your identity",
+  "body": "Raises your credit score"
+},{
+  "_id": {
+    "$oid": "628cad7783699ff5a1bc218c"
+  },
+  "username": "GoodguyGreg",
+  "title": "Reports a bug in your code",
+  "body": "Sends you a Pull Request"
+},{
+  "_id": {
+    "$oid": "628cadc483699ff5a1bc218d"
+  },
+  "username": "ScumbagSteve",
+  "title": "Borrows something",
+  "body": "Sells it"
+},{
+  "_id": {
+    "$oid": "628cae0083699ff5a1bc218e"
+  },
+  "username": "ScumbagSteve",
+  "title": "Borrows everything",
+  "body": "The end"
+},{
+  "_id": {
+    "$oid": "628cb2ea83699ff5a1bc2190"
+  },
+  "username": "ScumbagSteve",
+  "title": "Forks your repo on github",
+  "body": "Sets to private"
+}]
